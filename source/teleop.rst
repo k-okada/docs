@@ -38,18 +38,18 @@ Button # Function (details below)
  1       Control robot turning
  2       Control forward/backward driving
  3       Close gripper
- 4       `Disable motor position holding <https://github.com/fetchrobotics/fetch_robots/blob/melodic-devel/fetch_bringup/scripts/controller_reset.py>`_
- 5       Not used
- 6       Arm tuck
- 7       Not used
- 8       Head control deadman
- 9       Linear arm ("tooltip") control
+ 4       Not used
+ 5       Arm tuck
+ 6       Not used
+ 7       `Disable motor position holding <https://github.com/fetchrobotics/fetch_robots/blob/melodic-devel/fetch_bringup/scripts/controller_reset.py>`_
+ 8       Not used
+ 9       Unsafe teleop
  10      Primary deadman
- 11      Angular arm ("tooltip") control
+ 11      Head control deadman
  12      Torso up
- 13      Not used
+ 13      Dock
  14      Torso down
- 15      Not used
+ 15      Undock
  16      Pair/unpair with robot
 ======== =================================
 
